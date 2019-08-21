@@ -1,0 +1,40 @@
+body{
+    background-color: salmon;
+}
+
+.navbar-brand, .brand {
+	font-family: 'DM Serif Text', serif;
+	font-size: 2rem;
+}
+
+.ul {
+	font-family: Soleil,Helvetica,Arial,sans-serif;
+	display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+
+.border{
+	background: white;
+	width: 250px;
+    height: 50px;
+}
+
+a .btn-outline-success {
+    width: 100px;
+}
+
+a.text-success :hover {
+	color: red;
+}
+
+
+.heading{
+	font-family: Raleway,Helvetica,Arial,sans-serif;
+}
+
